@@ -1,12 +1,1 @@
-# Cours 1
-## Créer mon journal de bord
-[Ce tutoriel](https://guides.github.com/activities/hello-world/) vous aidera à bien comprendre les bases de GitHub, n'hésitez pas à le consulter!
-Vous ne vous rappelez plus comment créer le journal ou le modifier? [Ce tutoriel](https://youtu.be/lX3bpuLK_Sg) vous aide! 
-
-## Pourquoi j'ai choisi l'intégration multimédia
-Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous a fait choisir ce programme. Quel cours vous motive en particulier? Est-ce que vous avez déjà en tête un métier que vous aimeriez faire grâce à la formation? Insérez dans votre texte un mot en gras, un emoji et une liste à point. 
-
-[Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
-
-
-
+ J'ai choisi TIM car j'aime beaucoup ce qui touche le multimédia. La chose principale que j'aime est le montage vidéo et la création de contenus multimédia comme par exemple, des vidéos YouTube et le streaming. Ce sont des domaines qui me passionne et qui touche de loin ou peu le programme TIM. Je suis un créateur de contenus depuis environ 1 an maintenant mais j'ai pris une pause temporaire pour me concentrer sur mes études. Depuis que je suis jeune, j'aime créer du contenu sur Internet et au fils des années j'ai réussi à me créer un niveau beaucoup plus intéressant qu'autres fois. Un métier que j'aimerais réaliser après mes études en programme TIM est être créateur de contenus à pleins temps avec les connaissances que je vais avoir acquérir avec ce formidable programme.
