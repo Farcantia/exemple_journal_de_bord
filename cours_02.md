@@ -8,7 +8,7 @@ J'ai choisi cette oeuvre car elle démontre une grande créativité collective q
 L'oeuvre *Balancing Act* m'intéresse beaucoup car elle apporte un message derrière sa simplicité. Ce message est l'entraide pour mener à bien car quand on est plusieurs sur la plaque, le disque est en parfait équilibre et fait jouer une mélodie.
 
 ### [Marche Marche danse](https://www.dailytouslesjours.com/fr/projets/marche-marche-danse) 
-J'ai pris cette oeuvre car elle m'interpelle beaucoup sur l'aspect sportif que cette oeuvre représente. Elle met en avant la danse qui est important dans la vie, met en avant la joie et la santé de la population.
+J'ai pris cette oeuvre car elle m'interpelle beaucoup sur l'aspect sportif que cette oeuvre représente. Elle met en avant la danse qui est important dans la vie, met en avant la joie et la santé physique de la population.
 
 ### [Iceberg in Montreal](https://www.atomic3.ca/projet.php?id=2) 
 J'apprécie cette oeuvre artistique pour son côté architectural qui est très bien réalisé grâce à ses formes étranges et son côté tunnel immersif qui donne vraiment un sentiment à l'occupant de s'échapper pendant le temps de traverser le tunnel.
