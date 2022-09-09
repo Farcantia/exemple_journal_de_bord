@@ -11,7 +11,7 @@ Mes principaux intérêts en multimédia sont le montage vidéo et la création 
 Deux emplois qui m'intéresse sont monteur vidéo et créateur de contenu sur Internet.
 
 ### Identification
-Un artiste auquel je m'identifirais est Lucas Hauchard qui est un créateur de vidéos sur Internet car son contenu est riche et intéressant, il est passioné par ce qu'il fait et c'est exactement ce que je suis. 
+Un artiste auquel je m'identifirais est Théo Becker qui est un créateur de vidéo sur Internet car son contenu est riche et intéressant, il est passioné par ce qu'il fait et c'est exactement ce que je suis. 
 
 ### Dans 5 ans
 Je me vois monteur vidéo pour une petite compagnie ou être créateur de contenu sur Internet à plein temps.  
