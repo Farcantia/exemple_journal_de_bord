@@ -9,7 +9,7 @@ L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui 
 ### [Balançoires musicales](https://www.dailytouslesjours.com/fr/projets/balancoires-musicales) 
 J'ai choisi cette oeuvre car elle démontre une grande créativité collective qui, selon moi, est essentielle en multimédia. Elle est située en pleine ville et je trouve que cela amène une agréable ambiance au sein de la population et un vrai esprit de collectivité entre les habitants. 
 
-### [Balancing Act] https://www.dailytouslesjours.com/fr/projets/balancing-act
+### Balancing Act: https://www.dailytouslesjours.com/fr/projets/balancing-act
 L'oeuvre *Balancing Act* m'intéresse beaucoup car elle apporte un message derrière sa simplicité. Ce message est l'entraide pour mener à bien. Quand on est plusieurs sur 
 la plaque, le disque est en parfait équilibre et fait jouer une mélodie.
 ### https://www.dailytouslesjours.com/fr/projets/marche-marche-danse 
