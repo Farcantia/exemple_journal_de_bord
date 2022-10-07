@@ -1,3 +1,12 @@
 # Cours 6
 ## Préparation en vue de la visite
-Préparer 5 questions en lien avec la visite que nous irons faire la semaine prochaine. Faites des recherches concernant ce que nous allons visiter afin d'en savoir plus. Les questions doivent porter sur des informations que vous ne pouvez pas trouver en ligne. 
+
+**Question 1:** Quelle est le nom de l'événement?
+
+**Question 2:** Où se situe cet événement?
+
+**Question 3:** Est-ce que cet évenement est à grande portée?
+
+**Question 4:** De quelle édtion s'agît-t il?
+
+**Question 5:** L'événement de Montreal Connecte porte-t-il sur les grands impacts de ce monde?
